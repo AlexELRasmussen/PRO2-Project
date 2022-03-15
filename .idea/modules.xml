@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/L06 - Design Patterns Strategy and Observer/L06 - Design Patterns Strategy and Observer.iml" filepath="$PROJECT_DIR$/L06 - Design Patterns Strategy and Observer/L06 - Design Patterns Strategy and Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/L07 - Test og Mocking/L07 - Test og Mocking.iml" filepath="$PROJECT_DIR$/L07 - Test og Mocking/L07 - Test og Mocking.iml" />
       <module fileurl="file://$PROJECT_DIR$/L10 Design patterns Singleton and Adapter/L10 Design patterns Singleton and Adapter.iml" filepath="$PROJECT_DIR$/L10 Design patterns Singleton and Adapter/L10 Design patterns Singleton and Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L11 - Iterator and Composite/L11 - Iterator and Composite.iml" filepath="$PROJECT_DIR$/L11 - Iterator and Composite/L11 - Iterator and Composite.iml" />
     </modules>
   </component>
 </project>

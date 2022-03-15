@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class PersonAdministrator {
-    private Set<Person> persons = new HashSet<>();
+    private final Set<Person> persons = new HashSet<>();
     private static PersonAdministrator instance = null;
 
     private PersonAdministrator() {
