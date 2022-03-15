@@ -7,8 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/L02 - More Recursion/L02 - More Recursion.iml" filepath="$PROJECT_DIR$/L02 - More Recursion/L02 - More Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/L03 - Divide - Solve - Combine/L03 - Divide - Solve - Combine.iml" filepath="$PROJECT_DIR$/L03 - Divide - Solve - Combine/L03 - Divide - Solve - Combine.iml" />
       <module fileurl="file://$PROJECT_DIR$/L04 - Java CollectionsDotFramework/L04 - Java CollectionsDotFramework.iml" filepath="$PROJECT_DIR$/L04 - Java CollectionsDotFramework/L04 - Java CollectionsDotFramework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/L06 - Design Patterns1/L06 - Design Patterns1.iml" filepath="$PROJECT_DIR$/L06 - Design Patterns1/L06 - Design Patterns1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06 - Design Patterns Strategy and Observer/L06 - Design Patterns Strategy and Observer.iml" filepath="$PROJECT_DIR$/L06 - Design Patterns Strategy and Observer/L06 - Design Patterns Strategy and Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/L07 - Test og Mocking/L07 - Test og Mocking.iml" filepath="$PROJECT_DIR$/L07 - Test og Mocking/L07 - Test og Mocking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L10 Design patterns Singleton and Adapter/L10 Design patterns Singleton and Adapter.iml" filepath="$PROJECT_DIR$/L10 Design patterns Singleton and Adapter/L10 Design patterns Singleton and Adapter.iml" />
     </modules>
   </component>
 </project>
