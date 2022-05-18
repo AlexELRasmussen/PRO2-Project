@@ -43,6 +43,7 @@ public class CircularCannibalMeal {
 
     // Removes person "count" places from the last eaten
     public Person eatNextPerson() {
+
         return null;
     }
 

@@ -11,6 +11,7 @@ import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestMethodOrder;
 
+import queue.NodeQueue;
 import queue.Queue;
 import queue.SnackQueue;
 import snacks.Limb;
@@ -18,7 +19,7 @@ import snacks.Limb;
 @TestMethodOrder(OrderAnnotation.class)
 class QueueTest
 {
-    private Queue queue;
+    private NodeQueue queue;
 
     private Limb limb1;
     private Limb limb2;
@@ -34,7 +35,7 @@ class QueueTest
         // ARRANGE
         // --------------------------------------------------
 
-        this.queue = new Queue<Limb>(5);
+        this.queue = new NodeQueue<Limb>();
 
         this.limb1 = new Limb(Limb.Types.Finger);
         this.limb2 = new Limb(Limb.Types.Foot);
